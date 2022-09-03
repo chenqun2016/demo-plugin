@@ -1,0 +1,1 @@
+D:\workspace\demo\DemoPlugin\plugin-2\build\classes\kotlin\main\com\demo\plugin\plugin2\PluginImpl2.class

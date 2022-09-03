@@ -1,0 +1,5 @@
+rootProject.name = 'Reflections'
+include 'plugin-1'
+include 'plugin-2'
+include 'plugin-common'
+

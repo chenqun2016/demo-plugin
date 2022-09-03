@@ -1,0 +1,1 @@
+D:\workspace\demo\DemoPlugin\plugin-common\build\classes\kotlin\main\com\demo\plugin\plugincommon\Plugin$Companion.class;D:\workspace\demo\DemoPlugin\plugin-common\build\classes\kotlin\main\com\demo\plugin\plugincommon\Plugin.class

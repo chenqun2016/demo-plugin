@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Reflections.iml" filepath="$PROJECT_DIR$/.idea/modules/Reflections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin-1/Reflections.plugin-1.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin-1/Reflections.plugin-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin-2/Reflections.plugin-2.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin-2/Reflections.plugin-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin-common/Reflections.plugin-common.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin-common/Reflections.plugin-common.iml" />
+    </modules>
+  </component>
+</project>
